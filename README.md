@@ -2,7 +2,7 @@
 
 **`Analista de Dados e UX-UI Designer`**
 
-O meu nome é Iriana Pereira tenho 28 anos e atualmente resido em Angola. Sou formada em Gestão, certificada em UX-UI Design, e sempre tive uma grande paixão por dados. Atualmente estou a tirar o curso de Power BI pela Udemy e preferencialmente continuar a crescer no ramo de análise de dados. 
+My name is Iriana Pereira, I am 28 years old and I currently live in Angola. I have a degree in Management, certification in UX-UI Design, and I have always had a great passion for data. I am currently taking the Power BI course through Udemy and preferably continue to grow in the data analysis field.
 
 <p align="left">
 
