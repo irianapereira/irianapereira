@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Iriana Pereira
 
-**`Analista de Dados e UX-UI Designer`**
+**`Data Analysys and UX-UI Designer`**
 
 **Hi, I'm Iriana Pereira!**
 I'm 28 years old and currently based in Angola. I hold a degree in Management and a certification in UX/UI Design. Over the years, I've developed a strong passion for working with data and transforming information into meaningful insights. I'm currently expanding my skills by taking a Power BI course on Udemy, and I'm focused on growing my career in the field of data analysis.
@@ -48,7 +48,7 @@ I'm 28 years old and currently based in Angola. I hold a degree in Management an
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -109,7 +109,7 @@ I'm 28 years old and currently based in Angola. I hold a degree in Management an
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p align="left">
   <img 
